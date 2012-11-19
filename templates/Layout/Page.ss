@@ -1,4 +1,4 @@
-<% include site-sidebar %>
+<% include SiteSidebar %>
 
 <div class="site-content typography">
     <h1>$Title</h1>

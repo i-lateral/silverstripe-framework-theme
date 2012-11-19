@@ -23,7 +23,7 @@
     <body class="$ClassName">
         <div id="noscript">
             <div class="site-border-wrapper">
-                <% include site-header %>
+                <% include SiteHeader %>
                 
                 <div class="site-clear-both"></div>
 
@@ -31,7 +31,7 @@
                 
                 <div class="site-clear-both"></div>
 
-                <% include site-footer %>
+                <% include SiteFooter %>
                 
                 <div class="site-clear-both"></div>
             </div>
