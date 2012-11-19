@@ -1,0 +1,143 @@
+/* GENERIC STYLES 
+-------------------------------------------- */
+.typography * {
+    font-family: Arial, Verdana, Lucida, Arial, sans-serif;
+    font-size: 1em;
+}
+
+/* PARAGRAPHS 
+-------------------------------------------- */
+.typography p {
+    line-height: 1.5em;
+    margin: 0 0 1em 0;
+    padding: 0;
+}
+
+/* QUOTES
+-------------------------------------------- */
+.typography blockquote {
+    margin: 10px;
+    font-size: 1.4em;
+    color: #777;
+    font-style: italic;
+}	
+.typography q {
+    display:block;
+    font-size: 0.8em;
+    margin: 1em 1em;
+    padding: 0.5em;
+    border: 1px #ccc solid;
+}
+
+/* LINKS 
+-------------------------------------------- */
+.typography a {
+    
+}
+.typography a:hover { 
+    
+}
+
+/* LIST STYLES 
+-------------------------------------------- */
+.typography ul, 
+.typography ol {
+    margin: 0 0 18px 24px;
+    color: #666;
+}
+.typography li {
+    margin: 0 0 0.5em 0;
+    font-size: 10pt;
+}
+.typography li li {
+    font-size: 9pt;
+}
+		
+/* HEADER STYLES 
+-------------------------------------------- */
+.typography h1,
+.typography h2 {
+    margin: 0 0 0.5em 0;
+}
+
+.typography h1 {
+    font-size: 1.8em;
+}
+.typography h2 { 
+    font-size: 1.6em;
+}
+.typography h3 {
+    clear: both;
+    font-size: 1.4em;
+}
+.typography h4 {
+    font-size: 1.2em;
+}
+.typography h5 {
+    font-size: 1em;
+}
+.typography h6 {
+    font-size: 1em;
+}
+
+/* PRE STYLES 
+-------------------------------------------- */	
+.typography pre {
+    font-family:"Courier New",Courier;
+    display:block;
+    font-size:1.2em;
+    margin:2em 5em;
+    padding:0.5em;
+    border:1px #ccc solid;
+}
+
+/* TABLE STYLING 
+-------------------------------------------- */
+.typography table {
+    margin: 0 0 18px 0;
+    font-size: 11px;
+    color: #666;
+    border-collapse:collapse;
+}
+.typography tr {
+
+}
+.typography td {
+    border:1px solid #999;
+    padding:5px;
+}
+
+/* WYSIWYG EDITOR ALIGNMENT CLASSES 
+-------------------------------------------- */
+.typography .left {
+    text-align: left;
+}
+.typography .center {
+    text-align: center;
+}
+.typography .right {
+    text-align: right;
+}
+
+/* IMAGES 
+-------------------------------------------- */
+.typography img {
+    border: none;
+}
+.typography img.right {
+    float: right;
+    margin-left: 20px;
+}
+.typography img.left {
+    float: left;
+}
+.typography img.leftAlone {
+    float: left;
+    margin-right: 100%;
+}
+.typography img.center {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
