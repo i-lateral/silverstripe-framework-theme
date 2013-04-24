@@ -10,3 +10,11 @@ CSS.
 
 *NOTE* This is not a usable theme, it is only designed to allow you to more
 quickly develop your own themes.
+
+## Maintainer Contact ##
+
+ * Morven Lewis-Everley (morven at i-lateral dot com)
+
+## Attribution ##
+
+This skeleton theme includes CSS and JS from the [Kube framework] (http://imperavi.com/kube/)
