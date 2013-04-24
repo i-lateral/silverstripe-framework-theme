@@ -2,4 +2,9 @@
  * This support file is used to style the WYSIWYG editor in the CMS
  */
 
+@import "kube.css";
 @import "typography.css";
+
+.typography {
+    padding: 15px;
+}
